@@ -11,7 +11,7 @@
 		<properties>
 			<!-- Propriedades JDBC -->
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
-			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/testedb" />
+			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/testdb" />
 			<property name="javax.persistence.jdbc.user" value="bresan" />
 			<property name="javax.persistence.jdbc.password" value="senha123" />
 			<!-- Configurações específicas do Hibernate -->
