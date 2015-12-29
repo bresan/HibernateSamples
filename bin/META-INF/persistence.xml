@@ -8,6 +8,7 @@
 		<provider>org.hibernate.ejb.HibernatePersistence</provider>
 		<!-- Aqui são listadas todas as entidades -->
 		<class>br.com.bresan.hibernate.models.User</class>
+		<class>br.com.bresan.hibernate.models.Debt</class>
 		<properties>
 			<!-- Propriedades JDBC -->
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
